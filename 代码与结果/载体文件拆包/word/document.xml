@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se wp14">
+   <w:body>
+      <w:p w:rsidP="00D1EED0" w:rsidR="00B15B20" w:rsidRDefault="00B15B20" w:rsidRPr="00913DB4">
+         <w:pPr>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+               <w:b/>
+               <w:sz w:val="84"/>
+               <w:szCs w:val="84"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+               <w:b/>
+               <w:sz w:val="84"/>
+               <w:szCs w:val="84"/>
+            </w:rPr>
+            <w:t>南开校训</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidP="00F1B6AB" w:rsidR="00B15B20" w:rsidRDefault="00B15B20" w:rsidRPr="00913DB4">
+         <w:pPr>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋"/>
+               <w:color w:val="7030A0"/>
+               <w:sz w:val="40"/>
+               <w:szCs w:val="36"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia"/>
+               <w:color w:val="7030A0"/>
+               <w:sz w:val="40"/>
+               <w:szCs w:val="36"/>
+            </w:rPr>
+            <w:t>允公允能 日新月异</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidP="00313431" w:rsidR="00B15B20" w:rsidRDefault="00B15B20" w:rsidRPr="00913DB4">
+         <w:pPr>
+            <w:pStyle w:val="a3"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑"/>
+               <w:b/>
+               <w:sz w:val="84"/>
+               <w:szCs w:val="84"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rStyle w:val="a4"/>
+               <w:rFonts w:ascii="微软雅黑" w:eastAsia="微软雅黑" w:hAnsi="微软雅黑" w:hint="eastAsia"/>
+               <w:sz w:val="84"/>
+               <w:szCs w:val="84"/>
+            </w:rPr>
+            <w:t>容止格言</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidP="00303635" w:rsidR="00B15B20" w:rsidRDefault="00B15B20" w:rsidRPr="00913DB4">
+         <w:pPr>
+            <w:pStyle w:val="a3"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋"/>
+               <w:b/>
+               <w:color w:val="C00000"/>
+               <w:sz w:val="21"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia"/>
+               <w:b/>
+               <w:color w:val="C00000"/>
+               <w:sz w:val="21"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+            <w:t>面必净，发必理，衣必整，纽必结；</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidP="00380000" w:rsidR="00B15B20" w:rsidRDefault="00B15B20" w:rsidRPr="00913DB4">
+         <w:pPr>
+            <w:pStyle w:val="a3"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋"/>
+               <w:b/>
+               <w:color w:val="002060"/>
+               <w:sz w:val="21"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia"/>
+               <w:b/>
+               <w:color w:val="002060"/>
+               <w:sz w:val="21"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+            <w:t>头容正，肩容平，胸容宽，背容直。</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidP="00000000" w:rsidR="00B15B20" w:rsidRDefault="00B15B20" w:rsidRPr="00913DB4">
+         <w:pPr>
+            <w:pStyle w:val="a3"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋"/>
+               <w:b/>
+               <w:color w:val="92D050"/>
+               <w:sz w:val="28"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia"/>
+               <w:b/>
+               <w:color w:val="92D050"/>
+               <w:sz w:val="28"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+            <w:t>气象：勿傲、勿暴、勿怠；</w:t>
+         </w:r>
+      </w:p>
+      <w:p w:rsidP="00B15B20" w:rsidR="00A86069" w:rsidRDefault="00B15B20" w:rsidRPr="00B15B20">
+         <w:pPr>
+            <w:pStyle w:val="a3"/>
+            <w:jc w:val="center"/>
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋"/>
+               <w:b/>
+               <w:color w:val="FFC000"/>
+               <w:sz w:val="28"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+         </w:pPr>
+         <w:r w:rsidRPr="00913DB4">
+            <w:rPr>
+               <w:rFonts w:ascii="仿宋" w:eastAsia="仿宋" w:hAnsi="仿宋" w:hint="eastAsia"/>
+               <w:b/>
+               <w:color w:val="FFC000"/>
+               <w:sz w:val="28"/>
+               <w:szCs w:val="30"/>
+            </w:rPr>
+            <w:t>颜色：宜和、宜静、宜庄。</w:t>
+         </w:r>
+         <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+         <w:bookmarkEnd w:id="0"/>
+      </w:p>
+      <w:sectPr w:rsidR="00A86069" w:rsidRPr="00B15B20">
+         <w:pgSz w:h="16838" w:w="11906"/>
+         <w:pgMar w:bottom="1440" w:footer="992" w:gutter="0" w:header="851" w:left="1800" w:right="1800" w:top="1440"/>
+         <w:cols w:space="425"/>
+         <w:docGrid w:linePitch="312" w:type="lines"/>
+      </w:sectPr>
+   </w:body>
+</w:document>
